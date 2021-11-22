@@ -1,15 +1,11 @@
 {
-  "name": "vuepress-netlifycms",
+  "name": "tokai-prison-wiki",
   "version": "0.0.0",
   "private": true,
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://spdx.org/licenses/MIT.html"
-    },
-    {
       "type": "CC-BY-NC-SA-4.0",
-      "url": "https://spdx.org/licenses/CC-BY-NC-SA-4.0.html"
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja"
     }
   ],
   "scripts": {
@@ -23,5 +19,6 @@
     "singleQuote": true,
     "bracketSpacing": false,
     "trailingComma": "none"
-  }
+  },
+  "author": "Nakatai-0322 (https://github.com/Nakatai-0322)"
 }
