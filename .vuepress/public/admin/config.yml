@@ -11,9 +11,9 @@ publish_mode: editorial_workflow
 
 # 編集オブジェクト
 collections:
-  - name: "Blog" 
-    label: "Blog"
-    folder: "docs/Blog"
+  - name: "Wiki" 
+    label: "Wiki"
+    folder: "docs/wiki"
     create: true
     slug: "{{slug}}" #ファイル名になる
     editor:
