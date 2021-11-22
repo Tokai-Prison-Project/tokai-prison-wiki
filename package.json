@@ -1,0 +1,22 @@
+{
+  "name": "tokai-prison-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokai-Prison-Project/tokai-prison-wiki.git"
+  },
+  "author": "Nakatai-0322",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Tokai-Prison-Project/tokai-prison-wiki/issues"
+  },
+  "homepage": "https://github.com/Tokai-Prison-Project/tokai-prison-wiki#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
