@@ -11,9 +11,9 @@ publish_mode: editorial_workflow
 
 # 編集オブジェクト
 collections:
-  - name: "Tokai Prison Wiki" 
-    label: "Wiki"
-    folder: "docs/Wiki"
+  - name: "TP-Wiki" 
+    label: "Tp-Wiki"
+    folder: "docs/wiki"
     create: true
     slug: "{{slug}}" #ファイル名になる
     editor:
