@@ -1,3 +1,6 @@
-# ライブラリの実体がある"node_modules"は無視。
 node_modules
-.vscode/settings.json
+.DS_store
+*.log
+dist
+.env
+.vscode
