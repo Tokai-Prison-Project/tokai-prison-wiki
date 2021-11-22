@@ -11,9 +11,9 @@ publish_mode: editorial_workflow
 
 # 編集オブジェクト
 collections:
-  - name: "TP-Wiki" 
-    label: "Tp-Wiki"
-    folder: "docs/wiki"
+  - name: "Blog" 
+    label: "Blog"
+    folder: "docs/Blog"
     create: true
     slug: "{{slug}}" #ファイル名になる
     editor:
