@@ -13,7 +13,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "Wiki" 
     label: "Wiki"
-    folder: "docs/wiki"
+    folder: "docs/"
     create: true
     slug: "{{slug}}" #ファイル名になる
     editor:
