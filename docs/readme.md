@@ -1,0 +1,1 @@
+# Welcome to Tokai-Prison Wiki!
