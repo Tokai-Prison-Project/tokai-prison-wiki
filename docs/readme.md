@@ -1,1 +1,3 @@
-# Welcome to Tokai-Prison Wiki!
+# Tokai Prison Wiki
+
+"Tokai Prison Wiki"へようこそ！
