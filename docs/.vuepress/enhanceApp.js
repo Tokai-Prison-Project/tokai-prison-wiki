@@ -6,9 +6,7 @@ export default ({ Vue, options, router, siteData }) => {
         .then(module => {
             const Ads = module.default;
             Vue.use(require("vue-script2"));
-          Vue.use(Ads.Adsense); // ディスプレイ広告
-            // Vue.use(Ads.InArticleAdsense); // 記事内広告
-            // Vue.use(Ads.InFeedAdsense); // フィード内広告
+            Vue.use(Ads.Adsense); 
         })
         .catch(e => {
             console.log(e);
