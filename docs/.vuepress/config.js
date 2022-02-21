@@ -7,7 +7,7 @@ module.exports = {
 		repo: 'Tokai-Prison-Project/tokai-prison-wiki',
 		docsDir: 'docs',
 		editLinks: true,
-		editLinkText: 'Edit In GitHub',
+		editLinkText: 'GitHubで編集',
 		lastUpdated: '更新日',
 		nav: [
 			{ text: 'トップページ', link: '/' },
