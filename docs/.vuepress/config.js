@@ -1,8 +1,6 @@
 module.exports = {
     title: 'Tokai Prison Wiki',
-	description: '',
 	lang: 'ja-jp',
-	head: [],
 	themeConfig: {
 		repo: 'Tokai-Prison-Project/tokai-prison-wiki',
 		docsDir: 'docs',
