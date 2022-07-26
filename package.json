@@ -4,9 +4,9 @@
     "description": "Tokai Prison Wiki",
     "main": "index.js",
     "scripts": {
-        "dev": "vuepress dev docs",
-        "build": "vuepress build docs",
-        "eject": "vuepress eject docs"
+        "dev": "vitepress dev docs",
+        "build": "vitepress build docs",
+        "eject": "vitepress eject docs"
     },
     "repository": "git+https://github.com/Tokai-Prison-Project/tokai-prison-wiki.git",
     "author": "Nakatai-0322",
@@ -16,6 +16,6 @@
     },
     "homepage": "https://github.com/Tokai-Prison-Project/tokai-prison-wiki#readme",
     "devDependencies": {
-        "vuepress": "^1.9.7"
+        "vitepress": "^1.0.0-alpha.4"
     }
 }
