@@ -1,4 +1,4 @@
-node_modules 
-docs/.vuepress/dist/ 
-docs/.vuepress/.cache
-docs/.vuepress/.temp
+node_modules
+docs/.vitepress/dist/
+docs/.vitepress/.cache
+docs/.vitepress/.temp
